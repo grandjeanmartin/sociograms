@@ -5,6 +5,9 @@
 
 ## About ##
 
+<img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/Moreno-3.png" alt="Moreno Sociogram" width="200" align="right">
+<img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/group3a.png" alt="Moreno Sociogram" width="250" align="right">
+
 To cite this data set: 
 
 > GRANDJEAN Martin (2018). *Moreno's Sociograms*, Data set, https://github.com/grandjeanmartin/sociograms/. DOI 10.5281/zenodo.1998344
