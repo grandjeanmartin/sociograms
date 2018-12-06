@@ -4,9 +4,12 @@
 [![DOI](https://zenodo.org/badge/160677644.svg)](https://zenodo.org/badge/latestdoi/160677644)
 
 ## About ##
+<img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/Moreno-3.png" alt="Moreno Sociogram" width="180" align="right">
+<img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/group3a.png" alt="Moreno Sociogram" width="220" align="right">
 
-<img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/Moreno-3.png" alt="Moreno Sociogram" width="200" align="right">
-<img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/group3a.png" alt="Moreno Sociogram" width="250" align="right">
+The purpose of these data sets is to facilitate the study of Jacob Moreno's sociograms published in his 1934 book. The originals are on [pages 35 to 42](https://archive.org/details/whoshallsurviven00jlmo/page/34).
+
+Moreno’s sociograms are frequently considered as the first examples of social network analysis and visualization. Mapping the social affinities of a group of individuals, Moreno’s first sociograms visualize the relationships between pupils in a classroom: who wants to be sitting next to whom? Each child can choose two others, for results that suggest that sociabilities are changing over time: the proportion of attractions between boys and girls decrease, community structures are formed and then disappear, etc.
 
 To cite this data set: 
 
@@ -15,6 +18,10 @@ To cite this data set:
 To cite the initial blog post:
 
 > GRANDJEAN Martin (2015). *Social network analysis and visualization: Moreno’s Sociograms revisited*, http://www.martingrandjean.ch/social-network-analysis-visualization-morenos-sociograms-revisited/. 
+
+To cite Moreno's book:
+
+> MORENO Jacob Levy (1934). *Who Shall Survive? A New Approach to the Problem of Human Interrelations*, Washington D.C.: Nervous and Mental Disease Publishing Co.
 
 ## Data ##
 [CSV with Source/Target columns]
