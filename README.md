@@ -1,11 +1,13 @@
 # Moreno's Sociograms 
 [Martin Grandjean](http://www.martingrandjean.ch), University of Lausanne
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1998344.svg)](https://doi.org/10.5281/zenodo.1998344)
+
 ## About ##
 
 To cite this data set: 
 
-> GRANDJEAN Martin (2018). *Moreno's Sociograms*, Data set, https://github.com/grandjeanmartin/sociograms/. DOI XXX
+> GRANDJEAN Martin (2018). *Moreno's Sociograms*, Data set, https://github.com/grandjeanmartin/sociograms/. DOI 10.5281/zenodo.1998344
 
 To cite the initial blog post:
 
