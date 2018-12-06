@@ -1,7 +1,7 @@
 # Moreno's Sociograms 
 [Martin Grandjean](http://www.martingrandjean.ch), University of Lausanne
 
-[![DOI](https://zenodo.org/badge/160677643.svg)](https://zenodo.org/badge/latestdoi/160677643)
+[![DOI](https://zenodo.org/badge/160677644.svg)](https://zenodo.org/badge/latestdoi/160677644)
 
 ## About ##
 <img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/Moreno-3.png" alt="Moreno Sociogram" width="180" align="right">
