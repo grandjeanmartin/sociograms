@@ -26,21 +26,21 @@ To cite Moreno's book:
 ## Data ##
 [CSV with Source/Target columns]
 
-**> FILE 1** *Class Structure, 1st Grade* "Sociogram1.csv"
+**> FILE 1** *Class Structure, 1st Grade* "[Sociogram1.csv](https://github.com/grandjeanmartin/sociograms/blob/master/DATA/Sociogram1.csv)"
 
-**> FILE 2** *Class Structure, 2nd Grade* "Sociogram2.csv"
+**> FILE 2** *Class Structure, 2nd Grade* "[Sociogram2.csv](https://github.com/grandjeanmartin/sociograms/blob/master/DATA/Sociogram2.csv)"
 
-**> FILE 3** *Class Structure, 3rd Grade* "Sociogram3.csv"
+**> FILE 3** *Class Structure, 3rd Grade* "[Sociogram3.csv](https://github.com/grandjeanmartin/sociograms/blob/master/DATA/Sociogram3.csv)"
 
-**> FILE 4** *Class Structure, 4th Grade* "Sociogram4.csv"
+**> FILE 4** *Class Structure, 4th Grade* "[Sociogram4.csv](https://github.com/grandjeanmartin/sociograms/blob/master/DATA/Sociogram4.csv)"
 
-**> FILE 5** *Class Structure, 5th Grade* "Sociogram5.csv"
+**> FILE 5** *Class Structure, 5th Grade* "[Sociogram5.csv](https://github.com/grandjeanmartin/sociograms/blob/master/DATA/Sociogram5.csv)"
 
-**> FILE 6** *Class Structure, 6th Grade* "Sociogram6.csv"
+**> FILE 6** *Class Structure, 6th Grade* "[Sociogram6.csv](https://github.com/grandjeanmartin/sociograms/blob/master/DATA/Sociogram6.csv)"
 
-**> FILE 7** *Class Structure, 7th Grade* "Sociogram7.csv"
+**> FILE 7** *Class Structure, 7th Grade* "[Sociogram7.csv](https://github.com/grandjeanmartin/sociograms/blob/master/DATA/Sociogram7.csv)"
 
-**> FILE 8** *Class Structure, 8th Grade* "Sociogram8.csv"
+**> FILE 8** *Class Structure, 8th Grade* "[Sociogram8.csv](https://github.com/grandjeanmartin/sociograms/blob/master/DATA/Sociogram8.csv)"
 
 Note: When two nodes have the same initials in the Moreno example, they are differentiated by a "1" and a "2".
 
