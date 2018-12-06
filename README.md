@@ -9,7 +9,7 @@
 
 The purpose of these data sets is to facilitate the study of Jacob Moreno's sociograms published in his 1934 book. The originals are on [pages 35 to 42](https://archive.org/details/whoshallsurviven00jlmo/page/34).
 
-Moreno’s sociograms are frequently considered as the first examples of social network analysis and visualization. Mapping the social affinities of a group of individuals, Moreno’s first sociograms visualize the relationships between pupils in a classroom: who wants to be sitting next to whom? Each child can choose two others, for results that suggest that sociabilities are changing over time: the proportion of attractions between boys and girls decrease, community structures are formed and then disappear, etc.
+Moreno’s sociograms are frequently considered as the first examples of social network analysis and visualization. Mapping the social affinities of a group of individuals, Moreno’s first sociograms visualize the relationships between pupils in a classroom: who wants to be sitting next to whom?
 
 To cite this data set: 
 
