@@ -1,7 +1,7 @@
 # Moreno's Sociograms 
 [Martin Grandjean](http://www.martingrandjean.ch), University of Lausanne
 
-[![DOI](https://zenodo.org/badge/160677644.svg)](https://zenodo.org/badge/latestdoi/160677644)
+[![DOI](https://zenodo.org/badge/160677643.svg)](https://zenodo.org/badge/latestdoi/160677643)
 
 ## About ##
 <img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/Moreno-3.png" alt="Moreno Sociogram" width="180" align="right">
@@ -13,7 +13,7 @@ Moreno’s sociograms are frequently considered as the first examples of social 
 
 To cite this data set: 
 
-> GRANDJEAN Martin (2018). *Moreno's Sociograms*, Data set, https://github.com/grandjeanmartin/sociograms/. DOI 10.5281/zenodo.1998344
+> GRANDJEAN Martin (2018). *Moreno's Sociograms*, Data set, https://github.com/grandjeanmartin/sociograms/. DOI 10.5281/zenodo.1998343
 
 To cite the initial blog post:
 
