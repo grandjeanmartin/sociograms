@@ -7,9 +7,9 @@
 <img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/Moreno-3.png" alt="Moreno Sociogram" width="180" align="right">
 <img src="http://www.martingrandjean.ch/wp-content/uploads/2015/02/group3a.png" alt="Moreno Sociogram" width="220" align="right">
 
-The purpose of these data sets is to facilitate the study of Jacob Moreno's sociograms published in his 1934 book. The originals are on [pages 35 to 42](https://archive.org/details/whoshallsurviven00jlmo/page/34).
+The purpose of these data sets is to facilitate the study of Jacob Moreno and Helen Hall Jennings sociograms published in 1934. The originals are on [pages 35 to 42](https://archive.org/details/whoshallsurviven00jlmo/page/34).
 
-Moreno’s sociograms are frequently considered as the first examples of social network analysis and visualization. Mapping the social affinities of a group of individuals, Moreno’s first sociograms visualize the relationships between pupils in a classroom: who wants to be sitting next to whom?
+Moreno and Jennings sociograms are frequently considered as the first examples of social network analysis and visualization. Mapping the social affinities of a group of individuals, these first sociograms visualize the relationships between pupils in a classroom: who wants to be sitting next to whom?
 
 To cite this data set: 
 
